@@ -140,3 +140,14 @@ img {
 }
 
 /*---------------------------*/
+/* section mlsa ---------------------------*/
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#mlsa-logo {
+  width: 300px;
+  height: 300px;
+}
+
