@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/26632876?v=4" width="30%" alt="Logo of the project" align="right">
+<img src="https://raw.githubusercontent.com/alan-reyes/portfolio-the-goodone/main/images/alan-reyes-logo.png" width="30%" alt="Logo of the project" align="right">
 
 # 🚀 Portafolio 
 
