@@ -16,6 +16,9 @@ También forma parte de mi segundo examen de la universidad :)
  - Responsive Page
  - Movile view
  - Un montón de cosas :')
-info utilizada: 
-https://www.makeuseof.com/create-a-digital-clock-html-css-javascript/
+
+
+<p>info utilizada: 
+   https://www.makeuseof.com/create-a-digital-clock-html-css-javascript/
+</p>
 
