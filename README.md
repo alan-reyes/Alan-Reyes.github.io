@@ -18,7 +18,12 @@ También forma parte de mi segundo examen de la universidad :)
  - Un montón de cosas :')
 
 
-<p>info utilizada: 
+<p>Info utilizada: 
+   - Overlay Hover:
+   https://www.w3schools.com/howto/howto_css_image_overlay.asp
+   - Galeria:
+   https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
+   - Reloj:
    https://www.makeuseof.com/create-a-digital-clock-html-css-javascript/
 </p>
 
