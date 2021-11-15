@@ -66,8 +66,16 @@ p {
   font-weight: 600;
 }
 /* necesario para la galeria */
-img {
-  vertical-align: middle;      
+.img-gallery {
+  vertical-align: middle;  
+  width: 100%;
+  /* para que todas las imágenes tengan el mismo ancho */
+  min-height: 450px;
+  max-height: 400px;
+}
+.demo {
+  /* para que todas las imágenes tengan el mismo ancho */
+  min-height: 100px;  
 }
 /* Position the image container (needed to position the left and right arrows) */
 .container {
@@ -166,8 +174,8 @@ img {
   align-items: center;
 }
 #mlsa-logo {
-  width: 300px;
-  height: 300px;
+  width: 300px; 
+  height: 300px; 
 }
 #mlsa-section {
   margin-bottom: 30px;
