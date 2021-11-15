@@ -161,4 +161,15 @@ p {
 #mlsa-section {
   margin-bottom: 30px;
 }
+/* section spotify-list ---------------------------*/
+#spotify-section {
+  margin-bottom: 30px;
+}
+#spotify-section .description-container {
+  margin: 0 auto;  
+  margin-top: 30px;
+}
+.list-container {
+  margin-top: 30px;
+}
 
