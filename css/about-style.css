@@ -30,25 +30,6 @@ a {
   margin: 2px;
   padding: 15px;
 }
-/* styles for clock --------------------------------------------------------------*/
-#digital-clock {
-  background-color: #000;
-  width: 100%;  
-  font-family: "Chakra Petch", sans-serif;
-  font-size: 40px;
-  text-align: center;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
- }
- 
- /* para ubicar el reloj */
- .digital-clock-container {
-     position: absolute;
-     top: 0;
-     right: 0;
-     display: flex;    
-     margin-top: 30px;
-     margin-right: 50px;
- }
 section {
   margin-top: 100px;
 }
