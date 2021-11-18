@@ -3,7 +3,7 @@ html {
     background-color: #000;
     color: #fff;
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 1.5em;
+    font-size: 24px;
 }
 * {
     text-align: center;
@@ -26,13 +26,13 @@ html {
 }
 /* elementos dentro del contenerdor main */
 .title {
-    font-size: 300%;
+    font-size: 3em;
     margin-bottom: 15px;
-    letter-spacing: 5px;
+    letter-spacing: 0.4rem;
 }
 .separator {
     background-color: #cacaca;
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     margin-bottom: 20px;
 }
@@ -40,11 +40,12 @@ html {
 .media-container {
     margin: 0 auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     width: 50%;
 }
 .media-container img {
     width: 35px;
+    margin: 0 1em;
 }
 .description {
     width: 80%;
@@ -57,7 +58,6 @@ html {
 #button {
     margin: 0 auto;
     padding: 0;
-    width: 10%;
 }
 .button {
     background-color: #fff;
@@ -71,4 +71,5 @@ html {
     font-weight: 900;   
     cursor: pointer; 
 }
+
 
