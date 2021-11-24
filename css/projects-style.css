@@ -47,17 +47,23 @@ p {
   margin-top: 30px;
   font-weight: 600;
 }
+.image-section {
+  display: flex;
+  justify-content: center;
+}
 /* styles gallery */
 .container {
   position: relative;
-  width: 50%;
-  margin: 40px auto;
+  width: 80%;
+  margin-top: 40px;
   margin-bottom: 80px;
+  display: flex;
+  justify-content: center;
 }
-
 .image {
   display: block;
   max-width: 100%;
+  width: 700px;
   height: auto;
 }
 
@@ -88,11 +94,4 @@ p {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
-}
-.repo-container {
-  width: 50%;
-  margin: 0 auto;
-}
-.repo-container a {
-  margin-left: 180px;
 }
