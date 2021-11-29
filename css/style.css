@@ -7,9 +7,11 @@ html {
 }
 * {
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
-/* centrar el body */
 body {
+    margin-top: 18vh;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -19,9 +21,11 @@ body {
     margin-top: 35px;
 }
 /* contenerdor principal --------------------------------------------------*/
-.main-container {        
+.main-container {    
+    max-width: 100vh;
+    max-height: 120vh; 
     display: flex;
-    flex-direction: column;         
+    flex-direction: column;     
 }
 /* elementos dentro del contenerdor main */
 .title {
