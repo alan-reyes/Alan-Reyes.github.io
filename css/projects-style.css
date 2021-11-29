@@ -41,7 +41,7 @@ p {
 }
 .description-container {
   display: flex;
-  width: 80%;
+  width: 80vw;
   margin-left: 40px;
   margin-right: 40px;
   margin-top: 30px;
@@ -54,7 +54,7 @@ p {
 /* styles gallery */
 .container {
   position: relative;
-  width: 80%;
+  width: 80vw;
   margin-top: 40px;
   margin-bottom: 80px;
   display: flex;
@@ -63,18 +63,17 @@ p {
 .image {
   display: block;
   max-width: 100%;
-  width: 700px;
+  width: 80vw;
   height: auto;
 }
 
 .overlay {
+  display: block;
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 0;
-  right: 0;
   height: 100%;
-  width: 100%;
+  width: 80vw;
   opacity: 0;
   transition: 0.5s ease;
   background-color: rgba(0, 0, 0, 0.7);
