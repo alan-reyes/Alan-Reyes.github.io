@@ -3,7 +3,6 @@
 # 🚀 Portafolio 
 
 Este portafolio fue creado con la intención de mostrar algunas habilidades que venido aprendiendo sobre Desarrollo Web.
-También forma parte de mi segundo examen de la universidad :)
 
 ## Tecnologías utilizadas (por ahora)
 <p>  
@@ -22,8 +21,6 @@ También forma parte de mi segundo examen de la universidad :)
    - Overlay Hover:
    https://www.w3schools.com/howto/howto_css_image_overlay.asp
    - Galeria:
-   https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
-   - Reloj:
-   https://www.makeuseof.com/create-a-digital-clock-html-css-javascript/
+   https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp      
 </p>
 
